@@ -24,7 +24,7 @@
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://raw.githubusercontent.com/JinXiaoBing/Test/main/Turbo%2B.exe"
                 sparkle:dsaSignature="MC0CFGr5s+WDONHF8c9mM5Mbm3D/DGF8AhUA2mKbGk7ROxYKM61u63S80RLMD2A="
-                sparkle:version="200"
+                sparkle:version="1.9.2+166"
                 sparkle:os="windows"
                 length="0"
                 type="application/octet-stream" />
