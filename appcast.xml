@@ -23,7 +23,7 @@
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://dl.turbo.zenlayer.net/turbozen_ie/test/xBackDevInstall_1.0.6.msi"
-                sparkle:dsaSignature="MEQCIGCqtou10u5rGKGo8VXtOl/glkAMex6T7Srr+ivkxu3QAiAbiPUe0QQGJGREZLGHjTD2FgoVzQxvafP74oTghWBSfg=="
+                sparkle:dsaSignature="MEQCIAU79hk4VUxnHVU+JhxtTkTVsXBpjqHSfi/soARS4hVGAiBgv10NW1JpuQUG+hg8PgOLi2vGgAzl+ktbb9A4PyCakw=="
                 sparkle:version="1.0.6"
                 sparkle:os="windows"
                 length="0"
