@@ -15,6 +15,7 @@
                 sparkle:edSignature="S+LavO+uqt5dEXsTynpcCSujU+pt8hymFM+elh95GNKLw8Zaw1430IYJoCqjO6R7NcJBXQYpNAS4UJmAGaaKBg=="
                 length="30826121"
                 sparkle:os="macos"
+                flavor="dev"
                 type="application/octet-stream" />
         </item>
     </channel>
