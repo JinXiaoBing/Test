@@ -7,7 +7,7 @@
             <title>1.9.3</title>
             <description xml:lang="en"> <![CDATA[ <h2> What's new in Turbo 1.9.3 </h2> <h3> Apr 06, 2023 </h3> <li> Bug fixes and improvements.</li> ]]> </description>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
-            <sparkle:version>173</sparkle:version>
+            <sparkle:version>175</sparkle:version>
             <sparkle:shortVersionString>1.9.3</sparkle:shortVersionString>
             <!-- 最小版本号 -->
             <sparkle:criticalUpdate sparkle:version="170"></sparkle:criticalUpdate>
