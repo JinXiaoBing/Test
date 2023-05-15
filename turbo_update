@@ -11,7 +11,7 @@
       <sparkle:mandatory>false</sparkle:mandatory>
       <pubDate>Wed, 1 Jun 2022 00:00:00 -0800</pubDate>
       <enclosure url="http://www.myapp.com/MyApp-1.10.2.exe" sparkle:version="1.10.2" length="1234567"
-        type="application/octet-stream" />
+        type="application/octet-stream" sparkle:os="windows"/>
     </item>
     <item>
       <title>Version 1.10.3</title>
@@ -20,7 +20,7 @@
       <sparkle:releaseNotesLink>http://www.myapp.com/release-notes-1.2.2.html</sparkle:releaseNotesLink>
       <pubDate>Wed, 1 Jan 2022 00:00:00 -0800</pubDate>
       <enclosure url="http://www.myapp.com/MyApp-1.10.2.exe" sparkle:version="1.10.3" length="1234567"
-        type="application/octet-stream" />
+        type="application/octet-stream" sparkle:os="windows"/>
     </item>
   </channel>
 </rss>
