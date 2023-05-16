@@ -6,7 +6,7 @@
     <item>
       <title>Version 1.10.2</title>
       <sparkle:version>1.10.3+193</sparkle:version>
-      <sparkle:shortVersionString>1.10.2+193</sparkle:shortVersionString>
+      <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
       <sparkle:releaseNotesLink>http://www.myapp.com/release-notes-1.2.3.html</sparkle:releaseNotesLink>
       <pubDate>Wed, 1 Jun 2022 00:00:00 -0800</pubDate>
       <enclosure url="http://www.myapp.com/MyApp-1.10.2.exe" sparkle:version="1.10.2+193" length="1234567"
